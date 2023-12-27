@@ -1,0 +1,6 @@
+../.idea/
+venv/
+__pycache__/
+*.pyc
+test_app/.env
+.env
